@@ -1,4 +1,4 @@
-### 안녕하세요, 박경진 입니다 :blush:
+### 안녕하세요, 박경진 입니다 :blush: 😊
 
 <!--
 **janjinn/janjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
