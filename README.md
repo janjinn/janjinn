@@ -30,6 +30,6 @@ Google Map API를 활용한 길찾기 어플리케이션과
 Firebase Cloud Messaging API를 활용한 주차장 공유 어플리케이션 개발을 했습니다.
 
 ## :hearts: 기타
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hellostar)](https://solved.ac/hellostar)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellostar)](https://solved.ac/hellostar)<br/>
 최근 알고리즘 공부를 시작했는데, 같이 알고리즘 공부하실 분을 찾고 있어요! </br>
 골드1을 목표로 알고리즘 공부하고 프디아 교육 중 서로 도움 주고받을 분 연락주세요 :running:
