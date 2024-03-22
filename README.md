@@ -22,7 +22,10 @@ Here are some ideas to get you started:
 <!--
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 -->
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<div align=center>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+   <br>
+</div>
 <div align=center>
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <br>
