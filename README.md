@@ -1,4 +1,4 @@
-### 안녕하세요, 박경진 입니다 :blush:
+### 안녕하세요, 박경진 입니다:blush:
 
 <!--
 **janjinn/janjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +32,4 @@ Firebase Cloud Messaging API를 활용한 주차장 공유 어플리케이션 �
 ## :hearts: 기타
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hellostar)](https://solved.ac/hellostar)<br/>
 최근 알고리즘 공부를 시작했는데, 같이 알고리즘 공부하실 분을 찾고 있어요! </br>
-골드1을 목표로 알고리즘 공부하고 프디아 교육 중 서로 도움 주고받을 분 연락주세요 :running:
+골드1을 목표로 알고리즘 공부하고 프디아 교육 중 서로 도움 주고받을 분 연락주세요:running:
