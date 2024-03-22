@@ -1,4 +1,6 @@
-### 안녕하세요, 박경진 입니다 😊
+## 안녕하세요, 박경진 입니다 😊
+2024년 2월 컴퓨터공학과를 졸업하고 
+현재 금융권 취업을 목표로 신한투자증권 프로 디지털 아카데미에 참여중입니다.
 
 <!--
 **janjinn/janjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👀자기소개
-저는 2024년 2월 컴퓨터공학과를 졸업하고 금융권 취업을 목표로 신한투자증권 프로 디지털 아카데미에 참여 중 입니다.
+저를 가장 잘 표현하는 키워드는 '별' 입니다. 
 
 ## 💻기술
 <!--
@@ -38,4 +40,5 @@ Firebase Cloud Messaging API를 활용한 주차장 공유 어플리케이션 �
 ## ❤기타
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellostar)](https://solved.ac/hellostar)<br/>
 최근 알고리즘 공부를 시작했는데, 같이 알고리즘 공부하실 분을 찾고 있어요! </br>
-골드1을 목표로 알고리즘 공부하고 프디아 교육 중 서로 도움 주고받을 분 연락주세요 :running:
+골드1을 목표로 알고리즘 공부하고 프디아 교육 중 서로 도움 주고받을 분은 슬랙이나 아래 연락처로 디엠주세요😉
+<a href="https://www.instagram.com/_jan__jin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jan__jin"/></a>
