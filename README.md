@@ -1,4 +1,4 @@
-### 안녕하세요, 박경진 입니다 :blush: 😊
+### 안녕하세요, 박경진 입니다 😊
 
 <!--
 **janjinn/janjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :eyes: 자기소개
+## 👀자기소개
 저는 2024년 2월 컴퓨터공학과를 졸업하고 금융권 취업을 목표로 신한투자증권 프로 디지털 아카데미에 참여 중 입니다.
 
 ## :computer: 기술
