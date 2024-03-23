@@ -26,16 +26,14 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />  
 <div> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white"/>  </div>
-<div> </dive><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>  </div>
-
+<div> </dive><img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>  </div>  
 학부 시절 안드로이드 스튜디오와 자바/코틀린을 사용한 프로젝트 경험 두 번 있습니다!  
 
-Google Map API를 활용한 길찾기 어플리케이션과 
-Firebase Cloud Messaging API를 활용한 주차장 공유 어플리케이션 개발을 했습니다.  
+학교 내 길찾기 어플리케이션과 주차장 공유 어플리케이션 개발을 했습니다.  
 
 ## 💘관심사 및 취미
 🧩알고리즘  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellostar)](https://solved.ac/hellostar)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellostar)](https://solved.ac/hellostar)  
 최근 알고리즘 공부를 시작했는데, 같이 공부하실 분을 찾고 있습니다!  
 백준 골드1 이상을 목표로 알고리즘을 공부하고 프디아 교육내용 복습과 부족한 부분을 함께 채워가고 싶으신 분은  
 슬랙이나 아래 연락처로 디엠주세요😆  
