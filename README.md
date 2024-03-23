@@ -49,8 +49,8 @@ Firebase Cloud Messaging API를 활용한 주차장 공유 어플리케이션 �
 백준 골드1 이상을 목표로 알고리즘을 공부하고 프디아 교육내용 복습과 부족한 부분을 함께 채워가고 싶으신 분은  
 슬랙이나 아래 연락처로 디엠주세요😆  
 <a href="https://www.instagram.com/_jan__jin"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jan__jin"/></a>  
-🐶강아지 산책
-⚾KBO
-⚽국가대표 축구
-🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲
+🐶강아지 산책  
+⚾KBO  
+⚽국가대표 축구  
+🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲  
 
