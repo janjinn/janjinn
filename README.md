@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## 👀자기소개
 저를 가장 잘 표현하는 키워드는 '별✨' 입니다.  
+또한 별같은 사람과 함께하고 싶습니다.  
 
 ## 💻기술
 <!--
