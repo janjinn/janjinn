@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=#ffc0cb&height=300&section=header&text="안녕하세요,%20박경진%20입니다😊%20&fontSize=30)  
+![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text="안녕하세요,%20박경진%20입니다😊%20&fontSize=30)  
 2024년 2월 컴퓨터공학과를 졸업하고,   
 현재 금융권 취업을 목표로 신한투자증권 프로 디지털 아카데미에 참여중입니다.  
 
