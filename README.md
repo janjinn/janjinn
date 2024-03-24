@@ -48,6 +48,5 @@ Here are some ideas to get you started:
 ⚽국가대표 축구  
 🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲  
 
-<div align="right">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanjinn&count_bg=%23A8DAE8&title_bg=%23FFC0CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanjinn&count_bg=%23A8DAE8&title_bg=%23FFC0CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
