@@ -36,11 +36,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hellostar)](https://solved.ac/hellostar)  
 최근 알고리즘 공부를 시작했는데, 같이 공부하실 분을 찾고 있습니다!  
 백준 골드1 이상을 목표로 알고리즘을 공부하고 프디아 교육내용 복습과 부족한 부분을 함께 채워가고 싶으신 분은  
-슬랙이나 아래 연락처로 디엠주세요😆  
+슬랙으로 디엠주세요😆  
 <br/>
-<a href="https://www.instagram.com/_jan__jin">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jan__jin"/>
-</a>  
 
 🐶강아지 산책  
 ⚾KBO  
