@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text=안녕하세요,%20박경진%20입니다😊%20&fontSize=35)  
 2024년 2월 컴퓨터공학과를 졸업하고,   
-금융권 취업을 목표로 신한투자증권 프로 디지털 아카데미를 수료했습니다.  
+풀스택 개발을 위해 신한투자증권 프로 디지털 아카데미 4기를 수료했습니다.  
 
 ## 👀자기소개
 저를 가장 잘 표현하는 키워드는 '별✨' 입니다.  
@@ -40,7 +40,7 @@
 <br/>
 학부 시절 java를 사용한 안드로이드 네이티브앱 개발 경험 두 번 있습니다!  
 
-현재는 React와 javascript 또는 typesript를 사용해 웹 프론트엔드 개발을 하고 있습니다. 
+현재는 React와 TypeSript/JavaScript를 사용해 웹 개발을 하고 있습니다. 
 
 
 ## 💘관심사 및 취미
