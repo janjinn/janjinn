@@ -52,16 +52,26 @@
 🐶강아지 산책  
 ⚾KBO  
 ⚽국가대표 축구  
-🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲  
+🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲, 스도쿠, 테트리스
 
 
 ## 📚자격증 및 기타
-- 정보처리기사
-- 삼성전자DX 동계 알고리즘 특강
-- 신한투자증권 프로 디지털 아카데미
-- 토익스피킹 IM3
+수상
 - 교내 캡스톤디자인 대회 수상 2회
 - 신한투자증권 프로 디지털 아카데미 최종 프로젝트 최우수
+<br/>
+
+자격증
+
+- 정보처리기사
+- 토익스피킹 IM3
+<br/>
+
+교육
+- 삼성전자DX 동계 알고리즘 특강 수강
+- 신한투자증권 프로 디지털 아카데미 수료
+<br/>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janjinn)](https://github.com/anuraghazra/github-readme-stats)
 <br />
