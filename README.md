@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text=안녕하세요😊%20&fontSize=35)  
-2024년 2월 컴퓨터공학과를 졸업하고,   
-핀테크 개발을 위해 신한투자증권 프로 디지털 아카데미 4기를 수료했습니다.  
+2024년 2월 컴퓨터공학과를 졸업하고 핀테크 개발자를 꿈꾸고 있습니다.
 
 ## 👀자기소개
 저를 가장 잘 표현하는 키워드는 '별✨' 입니다.  
@@ -38,9 +37,7 @@
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>  
 <br/>
-학부 시절 java를 사용한 안드로이드 네이티브앱 개발 및 출시 경험이 있습니다!  
-
-현재는 React와 TypeScript/JavaScript를 사용해 웹 개발을 하고 있습니다. 
+현재는 React와 TypeScript를 활용해 웹 개발을 하고 있습니다!
 
 
 ## 💘관심사 및 취미
@@ -70,6 +67,12 @@
 교육
 - 삼성전자DX 동계 알고리즘 특강 수강
 - 신한투자증권 프로 디지털 아카데미 수료
+
+<br/>
+
+프로젝트
+- 사유 주차장 공유 안드로이드 앱 SOPAR 개발 및 출시
+- 주식 담보 간편 결제 앱 140PAY 개발 및 배포
 <br/>
 
 
