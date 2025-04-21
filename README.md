@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text=안녕하세요,%20박경진%20입니다😊%20&fontSize=35)  
+![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text=안녕하세요😊%20&fontSize=35)  
 2024년 2월 컴퓨터공학과를 졸업하고,   
-풀스택 개발을 위해 신한투자증권 프로 디지털 아카데미 4기를 수료했습니다.  
+핀테크 개발을 위해 신한투자증권 프로 디지털 아카데미 4기를 수료했습니다.  
 
 ## 👀자기소개
 저를 가장 잘 표현하는 키워드는 '별✨' 입니다.  
@@ -38,9 +38,9 @@
     <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
 </div>  
 <br/>
-학부 시절 java를 사용한 안드로이드 네이티브앱 개발 경험 두 번 있습니다!  
+학부 시절 java를 사용한 안드로이드 네이티브앱 개발 및 출시 경험이 있습니다!  
 
-현재는 React와 TypeSript/JavaScript를 사용해 웹 개발을 하고 있습니다. 
+현재는 React와 TypeScript/JavaScript를 사용해 웹 개발을 하고 있습니다. 
 
 
 ## 💘관심사 및 취미
@@ -51,8 +51,7 @@
 
 🐶강아지 산책  
 ⚾KBO  
-⚽국가대표 축구  
-🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲, 스도쿠, 테트리스
+🎮모바일 배그, 루미큐브, 발로란트, 동물의 숲
 
 
 ## 📚자격증 및 기타
@@ -64,6 +63,7 @@
 자격증
 
 - 정보처리기사
+- SQLD
 - 토익스피킹 IM3
 <br/>
 
