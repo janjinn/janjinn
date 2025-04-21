@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=ffc0cb&height=300&section=header&text=안녕하세요😊%20&fontSize=35)  
-2024년 2월 컴퓨터공학과를 졸업하고 핀테크 개발자를 꿈꾸고 있습니다.
 
 ## 👀자기소개
 저를 가장 잘 표현하는 키워드는 '별✨' 입니다.  
-또한 별같은 사람과 함께하고 싶습니다.  
+그리고 별같은 사람들과 함께하고 싶습니다.  
 
 
 ## 💻기술
